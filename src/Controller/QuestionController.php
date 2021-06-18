@@ -58,7 +58,8 @@ class QuestionController extends AbstractController
      */
     public function new(EntityManagerInterface $entityManager)
     {
-        $question = new Question();
+        return new Response('Sounds like a GREAT feature for V2!');
+       /* $question = new Question();
         $question->setName("Ibrahim ELsanosi")
             ->setSlug('Missing-pants-'.rand(0,1000))
             ->setQuestion(<<<EOF
@@ -84,7 +85,7 @@ EOF
             $question->getId(),
             $question->getSlug(),
             $question->getVotes()
-        ));
+        ));*/
 
     }
     /**
