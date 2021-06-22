@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="782aaa8e-dd1f-443c-8407-0297477c65ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cauldron_overflow.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/ThinkificAPI.php" beforeDir="false" afterPath="$PROJECT_DIR$/Test/ThinkificAPI.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,6 +130,10 @@
       <path value="$PROJECT_DIR$/vendor/zenstruck/callback" />
       <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
       <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid-doctrine" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
     </include_path>
   </component>
   <component name="ProjectId" id="1tQtjYJyi7kHPMqKELNxYjpZwEF" />
@@ -173,6 +176,7 @@
       <workItem from="1623318762050" duration="12915000" />
       <workItem from="1623403941867" duration="57701000" />
       <workItem from="1624007317580" duration="1299000" />
+      <workItem from="1624291310579" duration="1512000" />
     </task>
     <servers />
   </component>
