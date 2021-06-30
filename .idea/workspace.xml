@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="782aaa8e-dd1f-443c-8407-0297477c65ac" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Test/ThinkificAPI.php" beforeDir="false" afterPath="$PROJECT_DIR$/Test/ThinkificAPI.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,6 +146,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../GTTR/GTToolkit" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -177,6 +177,8 @@
       <workItem from="1623403941867" duration="57701000" />
       <workItem from="1624007317580" duration="1299000" />
       <workItem from="1624291310579" duration="1512000" />
+      <workItem from="1624537678347" duration="1258000" />
+      <workItem from="1624629494610" duration="5303000" />
     </task>
     <servers />
   </component>
@@ -196,13 +198,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="96" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1623072219376" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1624629792167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624629792167" />
     <state x="347" y="155" key="NewPhpClassDialog" timestamp="1623066540070">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="347" y="155" key="NewPhpClassDialog/0.0.1280.680@0.0.1280.680" timestamp="1623066540070" />
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1623057741245">
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1624629703804">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1623057741245" />
+    <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1624629703804" />
   </component>
 </project>
